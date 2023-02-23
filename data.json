@@ -1,0 +1,24 @@
+{
+	"Policies": [
+		{
+			"Policy Number":"P000001",
+			"Effective Date":"10/31/2022",
+			"Business":"NASA"
+		},
+		{
+			"Policy Number":"P000002",
+			"Effective Date":"02/13/2023",
+			"Business":"Ravens"
+		},
+		{
+			"Policy Number":"P000003",
+			"Effective Date":"12/09/2022",
+			"Business":"Sogeti"
+		},
+		{
+			"Policy Number":"P000004",
+			"Effective Date":"12/28/2022",
+			"Business":"Capgemini"
+		}
+	]
+}
